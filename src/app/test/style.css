@@ -1,0 +1,591 @@
+.shopping-cart {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.shopping-cart .div {
+    background-color: #ffffff;
+    height: 1024px;
+    position: relative;
+    width: 1440px;
+}
+
+.shopping-cart .tomato {
+    background-color: #fafaf5;
+    border: 2px solid;
+    border-color: #e6e6e6;
+    border-radius: 24px;
+    height: 159px;
+    left: 96px;
+    overflow: hidden;
+    position: absolute;
+    top: 301px;
+    width: 821px;
+}
+
+.shopping-cart .text-wrapper {
+    color: #000000;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 184px;
+    letter-spacing: 0;
+    line-height: 26px;
+    position: absolute;
+    top: 22px;
+    white-space: nowrap;
+}
+
+.shopping-cart .text-wrapper-2 {
+    color: #000000;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 740px;
+    letter-spacing: 0;
+    line-height: 26px;
+    position: absolute;
+    text-align: right;
+    top: 22px;
+    white-space: nowrap;
+}
+
+.shopping-cart .text-wrapper-3 {
+    color: #426b1f;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 184px;
+    letter-spacing: 0;
+    line-height: 26px;
+    position: absolute;
+    top: 52px;
+    white-space: nowrap;
+}
+
+.shopping-cart .input-field {
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #0000000f;
+    border-radius: 20px;
+    height: 40px;
+    left: 184px;
+    overflow: hidden;
+    position: absolute;
+    top: 95px;
+    width: 128px;
+}
+
+.shopping-cart .text-wrapper-4 {
+    color: #000000;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 16px;
+    font-weight: 600;
+    height: 21px;
+    left: 16px;
+    letter-spacing: 0;
+    line-height: 20.8px;
+    position: absolute;
+    top: 8px;
+    white-space: nowrap;
+}
+
+.shopping-cart .icon {
+    height: 32px;
+    left: 88px;
+    position: absolute;
+    top: 4px;
+    width: 32px;
+}
+
+.shopping-cart .union {
+    height: 16px;
+    left: 8px;
+    position: absolute;
+    top: 8px;
+    width: 16px;
+}
+
+.shopping-cart .img {
+    height: 159px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 160px;
+}
+
+.shopping-cart .ginger {
+    background-color: #e4e4e4;
+    border: 2px solid;
+    border-color: #dfdfdf;
+    border-radius: 20px;
+    height: 159px;
+    left: 96px;
+    overflow: hidden;
+    position: absolute;
+    top: 491px;
+    width: 821px;
+}
+
+.shopping-cart .text-wrapper-5 {
+    color: #35630e;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 184px;
+    letter-spacing: 0;
+    line-height: 26px;
+    position: absolute;
+    top: 52px;
+    white-space: nowrap;
+}
+
+.shopping-cart .text-wrapper-6 {
+    color: #000000;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    height: 21px;
+    left: 16px;
+    letter-spacing: 0;
+    line-height: 20.8px;
+    position: absolute;
+    top: 8px;
+    white-space: nowrap;
+}
+
+.shopping-cart .onion {
+    background-color: #fafaf5;
+    border: 2px solid;
+    border-color: #e6e6e6;
+    border-radius: 24px;
+    height: 159px;
+    left: 96px;
+    overflow: hidden;
+    position: absolute;
+    top: 681px;
+    width: 821px;
+}
+
+.shopping-cart .text-wrapper-7 {
+    color: #000000;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 730px;
+    letter-spacing: 0;
+    line-height: 26px;
+    position: absolute;
+    text-align: right;
+    top: 22px;
+    white-space: nowrap;
+}
+
+.shopping-cart .summary {
+    background-color: #fafaf5;
+    border: 2px solid;
+    border-color: #e6e6e6;
+    border-radius: 24px;
+    height: 318px;
+    left: 949px;
+    overflow: hidden;
+    position: absolute;
+    top: 301px;
+    width: 395px;
+}
+
+.shopping-cart .text-wrapper-8 {
+    color: #000000;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 24px;
+    letter-spacing: 0;
+    line-height: 26px;
+    position: absolute;
+    top: 22px;
+    white-space: nowrap;
+}
+
+.shopping-cart .text-wrapper-9 {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 24px;
+    letter-spacing: 0;
+    line-height: 20.8px;
+    position: absolute;
+    top: 80px;
+    white-space: nowrap;
+}
+
+.shopping-cart .text-wrapper-10 {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 319px;
+    letter-spacing: 0;
+    line-height: 20.8px;
+    position: absolute;
+    text-align: right;
+    top: 80px;
+    white-space: nowrap;
+}
+
+.shopping-cart .text-wrapper-11 {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 24px;
+    letter-spacing: 0;
+    line-height: 20.8px;
+    position: absolute;
+    top: 117px;
+    white-space: nowrap;
+}
+
+.shopping-cart .text-wrapper-12 {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 326px;
+    letter-spacing: 0;
+    line-height: 20.8px;
+    position: absolute;
+    text-align: right;
+    top: 117px;
+    white-space: nowrap;
+}
+
+.shopping-cart .text-wrapper-13 {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 24px;
+    letter-spacing: 0;
+    line-height: 20.8px;
+    position: absolute;
+    top: 154px;
+    white-space: nowrap;
+}
+
+.shopping-cart .text-wrapper-14 {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 327px;
+    letter-spacing: 0;
+    line-height: 20.8px;
+    position: absolute;
+    text-align: right;
+    top: 155px;
+    white-space: nowrap;
+}
+
+.shopping-cart .text-wrapper-15 {
+    color: #000000;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 16px;
+    font-weight: 600;
+    left: 24px;
+    letter-spacing: 0;
+    line-height: 20.8px;
+    position: absolute;
+    top: 191px;
+    white-space: nowrap;
+}
+
+.shopping-cart .text-wrapper-16 {
+    color: #000000;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 16px;
+    font-weight: 600;
+    left: 314px;
+    letter-spacing: 0;
+    line-height: 20.8px;
+    position: absolute;
+    text-align: right;
+    top: 188px;
+    white-space: nowrap;
+}
+
+.shopping-cart .button {
+    all: unset;
+    background-color: #426b1f;
+    border-radius: 8px;
+    box-sizing: border-box;
+    height: 48px;
+    left: 24px;
+    overflow: hidden;
+    position: absolute;
+    top: 246px;
+    width: 347px;
+}
+
+.shopping-cart .text-wrapper-17 {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 16px;
+    font-weight: 600;
+    height: 21px;
+    left: 24px;
+    letter-spacing: 0;
+    line-height: 20.8px;
+    position: absolute;
+    top: 13px;
+    white-space: nowrap;
+}
+
+.shopping-cart .icon-2 {
+    height: 32px;
+    left: 299px;
+    position: absolute;
+    top: 8px;
+    width: 32px;
+}
+
+.shopping-cart .page-heading {
+    background-color: #ffffff;
+    height: 149px;
+    left: 0;
+    position: absolute;
+    top: 112px;
+    width: 1440px;
+}
+
+.shopping-cart .text-wrapper-18 {
+    color: #000000;
+    font-family: "Inter-Light", Helvetica;
+    font-size: 20px;
+    font-weight: 300;
+    height: 26px;
+    left: 301px;
+    letter-spacing: 0;
+    line-height: 26px;
+    position: absolute;
+    top: 89px;
+    white-space: nowrap;
+}
+
+.shopping-cart .text-wrapper-19 {
+    color: #000000;
+    font-family: "Newsreader-Regular", Helvetica;
+    font-size: 64px;
+    font-weight: 400;
+    height: 77px;
+    left: 96px;
+    letter-spacing: -1.28px;
+    line-height: 76.8px;
+    position: absolute;
+    top: 55px;
+    white-space: nowrap;
+}
+
+.shopping-cart .divider {
+    height: 2px;
+    left: 92px;
+    object-fit: cover;
+    position: absolute;
+    top: 147px;
+    width: 1256px;
+}
+
+.shopping-cart .navigation {
+    height: 112px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+}
+
+.shopping-cart .text-wrapper-20 {
+    color: #426b1f;
+    font-family: "Newsreader-Medium", Helvetica;
+    font-size: 32px;
+    font-weight: 500;
+    left: 96px;
+    letter-spacing: -0.32px;
+    line-height: 32px;
+    position: absolute;
+    top: 40px;
+    white-space: nowrap;
+}
+
+.shopping-cart .text-wrapper-21 {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    height: 21px;
+    left: 744px;
+    letter-spacing: 0;
+    line-height: 20.8px;
+    position: absolute;
+    text-align: center;
+    top: 44px;
+    white-space: nowrap;
+}
+
+.shopping-cart .text-wrapper-22 {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    height: 21px;
+    left: 831px;
+    letter-spacing: 0;
+    line-height: 20.8px;
+    position: absolute;
+    text-align: center;
+    top: 44px;
+    white-space: nowrap;
+}
+
+.shopping-cart .text-wrapper-23 {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    height: 21px;
+    left: 956px;
+    letter-spacing: 0;
+    line-height: 20.8px;
+    position: absolute;
+    text-align: center;
+    top: 44px;
+    white-space: nowrap;
+}
+
+.shopping-cart .text-wrapper-24 {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    height: 21px;
+    left: 1094px;
+    letter-spacing: 0;
+    line-height: 20.8px;
+    position: absolute;
+    text-align: center;
+    top: 44px;
+    white-space: nowrap;
+}
+
+.shopping-cart .cart-button {
+    background-color: #426b1f;
+    border-radius: 4px;
+    height: 48px;
+    left: 1218px;
+    overflow: hidden;
+    position: absolute;
+    top: 32px;
+    width: 126px;
+}
+
+.shopping-cart .text-wrapper-25 {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 16px;
+    font-weight: 600;
+    height: 21px;
+    left: 23px;
+    letter-spacing: 0;
+    line-height: 20.8px;
+    position: absolute;
+    text-align: center;
+    top: 12px;
+    white-space: nowrap;
+}
+
+.shopping-cart .bitteronion {
+    background-color: #e5e4e4;
+    border-radius: 30px;
+    height: 112px;
+    left: 96px;
+    overflow: hidden;
+    position: absolute;
+    top: 864px;
+    width: 821px;
+}
+
+.shopping-cart .fkphulv-m {
+    height: 112px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 149px;
+}
+
+.shopping-cart .text-wrapper-26 {
+    color: #000000;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 184px;
+    letter-spacing: 0;
+    line-height: 26px;
+    position: absolute;
+    top: 13px;
+    white-space: nowrap;
+}
+
+.shopping-cart .text-wrapper-27 {
+    color: #000000;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 748px;
+    letter-spacing: 0;
+    line-height: 26px;
+    position: absolute;
+    top: 7px;
+    white-space: nowrap;
+}
+
+.shopping-cart .p {
+    color: #426b1f;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 184px;
+    letter-spacing: 0;
+    line-height: 26px;
+    position: absolute;
+    top: 42px;
+    white-space: nowrap;
+}
+
+.shopping-cart .frame {
+    background-color: #ffffff;
+    border-radius: 30px;
+    height: 26px;
+    left: 189px;
+    overflow: hidden;
+    position: absolute;
+    top: 75px;
+    width: 116px;
+}
+
+.shopping-cart .text-wrapper-28 {
+    color: #000000;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 12px;
+    font-weight: 600;
+    left: 11px;
+    letter-spacing: 0;
+    line-height: 15.6px;
+    position: absolute;
+    top: 4px;
+    white-space: nowrap;
+}
